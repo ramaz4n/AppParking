@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AppParking/1.0.0": {
+        "dependencies": {
+          "AppParking.Models": "1.0.0"
+        },
+        "runtime": {
+          "AppParking.dll": {}
+        }
+      },
+      "AppParking.Models/1.0.0": {
+        "runtime": {
+          "AppParking.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppParking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppParking.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

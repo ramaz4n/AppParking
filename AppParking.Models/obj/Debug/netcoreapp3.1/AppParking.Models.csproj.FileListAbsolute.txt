@@ -1,0 +1,27 @@
+C:\Users\просто\source\repos\AppParking\AppParking.Models\bin\Debug\netcoreapp3.1\AppParking.Models.deps.json
+C:\Users\просто\source\repos\AppParking\AppParking.Models\bin\Debug\netcoreapp3.1\AppParking.Models.dll
+C:\Users\просто\source\repos\AppParking\AppParking.Models\bin\Debug\netcoreapp3.1\AppParking.Models.pdb
+C:\Users\просто\source\repos\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.csproj.AssemblyReference.cache
+C:\Users\просто\source\repos\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\просто\source\repos\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.AssemblyInfoInputs.cache
+C:\Users\просто\source\repos\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.AssemblyInfo.cs
+C:\Users\просто\source\repos\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.csproj.CoreCompileInputs.cache
+C:\Users\просто\source\repos\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.dll
+C:\Users\просто\source\repos\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.pdb
+C:\Users\user\Desktop\AppParking\AppParking.Models\bin\Debug\netcoreapp3.1\AppParking.Models.deps.json
+C:\Users\user\Desktop\AppParking\AppParking.Models\bin\Debug\netcoreapp3.1\AppParking.Models.dll
+C:\Users\user\Desktop\AppParking\AppParking.Models\bin\Debug\netcoreapp3.1\AppParking.Models.pdb
+C:\Users\user\Desktop\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.AssemblyInfo.cs
+C:\Users\user\Desktop\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.dll
+C:\Users\user\Desktop\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.pdb
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.csproj.AssemblyReference.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.AssemblyInfoInputs.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.AssemblyInfo.cs
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.dll
+C:\Users\Ramazan Abdullaev\Desktop\C#\AppParking\AppParking.Models\obj\Debug\netcoreapp3.1\AppParking.Models.pdb
